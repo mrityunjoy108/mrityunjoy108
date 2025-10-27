@@ -21,7 +21,7 @@ My key interests include:
 | Project | Description |
 |----------|--------------|
 | [📈 Financial Dashboard](https://github.com/mrityunjoy108/finance-data-projects) | An Excel-based dashboard analyzing revenue, expenses, and profit margins over 12 months |
-| 🔜 Stock Volatility Analysis *(Coming Soon)* | Analyzing NIFTY 50 & Crypto price volatility using Excel and Python |
+| [📊 Stock Volatility Analysis](https://github.com/mrityunjoy108/stock_trend_analysis) | Python-based project analyzing **NIFTY 50** and **Crypto** price volatility using historical data, charts, and trend analysis |
 
 ---
 
@@ -39,4 +39,3 @@ My key interests include:
 ---
 
 ⭐ *“Turning data into financial decisions.”*
-
