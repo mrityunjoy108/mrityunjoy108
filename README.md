@@ -31,8 +31,10 @@ My interests include:
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [yourname@email.com](mailto:yourname@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/mrityunjoy108](https://linkedin.com/in/mrityunjoy108)  
+- 📧 Email: [mrityunjoysarmah5@gmail.com](mailto:mrityunjoysarmah5@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/
+mrityunjoy-sarmah-830ab4214
+)  
 - 🧠 GitHub: [github.com/mrityunjoy108](https://github.com/mrityunjoy108)
 
 ---
