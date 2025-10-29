@@ -20,8 +20,9 @@ My key interests include:
 ## 🚀 Featured Projects
 | Project | Description |
 |----------|--------------|
-| [📈 Financial Dashboard](https://github.com/mrityunjoy108/finance-data-projects) | An Excel-based dashboard analyzing revenue, expenses, and profit margins over 12 months |
-| [📊 Stock Volatility Analysis](https://github.com/mrityunjoy108/stock_trend_analysis) | Python-based project analyzing **NIFTY 50** and **Crypto** price volatility using historical data, charts, and trend analysis |
+| [📊 Onehorn MarketMitra](https://github.com/mrityunjoy108/onehorn-marketmitra) | A policy–market intelligence dashboard that connects **Union Budget allocations** with **sector-wise stock performance** to forecast future investment opportunities. |
+| [📈 Financial Dashboard](https://github.com/mrityunjoy108/finance-data-projects) | An Excel-based dashboard analyzing revenue, expenses, and profit margins over 12 months. |
+| [📉 Stock Volatility Analysis](https://github.com/mrityunjoy108/stock_trend_analysis) | Python-based project analyzing **NIFTY 50** and **Crypto** price volatility using historical data, charts, and trend analysis. |
 
 ---
 
